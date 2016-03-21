@@ -17,4 +17,14 @@ Texto normal
 
 ![Preview](http://aronbordin.com/images/neo-hpstr-jekyll-theme-preview.png)
 
+
+## Habilidades Técnicas
+
+## Proyectos Personales
+
+## Expediente
+* [Descargar](https://www.dropbox.com/s/q4c8gqrm6pkozzh/expediente.pdf?dl=0)
+
+## Contacto
+
 ---
