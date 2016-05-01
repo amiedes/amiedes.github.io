@@ -15,8 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Cambiar esto en función de si estoy trabajando en localhost o en el sitio publicado
-url: "http://amiedes.tech" # the base hostname & protocol for your site
-#url: "http://localhost"
+#url: "http://amiedes.tech" # the base hostname & protocol for your site
+url: "http://localhost"
 
 twitter_username: albertomg994
 github_username:  albertomg994
