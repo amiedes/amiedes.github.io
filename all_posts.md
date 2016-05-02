@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Lista de posts
-permalink: all_posts.html
-published: true
+layout: page
+title: All posts
+permalink: /all_posts/
 ---
+
+Esta sección contiene una lista con todos los posts escritos hasta el momento:
 
 <ul>
   {% for post in site.posts %}
