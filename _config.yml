@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Página de Alberto Miedes
+title: amiedes.tech
 email: albertomg994@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog/página personal de Alberto Miedes. Aquí puedes encontrar posts de carácter
+  general, técnico, apuntes y hojas resumen así como información de contacto y
+  mi perfil profesional.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Cambiar esto en función de si estoy trabajando en localhost o en el sitio publicado
@@ -20,6 +20,7 @@ url: "http://amiedes.tech" # the base hostname & protocol for your site
 
 twitter_username: albertomg994
 github_username:  albertomg994
+linkedin_username: amiedes
 
 # Build settings
 markdown: kramdown
