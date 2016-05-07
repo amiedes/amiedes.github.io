@@ -1,0 +1,77 @@
+.profile-section {
+
+  padding: 10px;
+  .section-title {
+    color: black;
+    //text-decoration: underline;
+    margin-bottom: 25px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid gray;
+    width: 100%;
+    display: block;
+
+  }
+
+}
+
+.profile-header {
+
+}
+
+.section-personal {
+
+}
+
+.section-education {
+
+}
+
+.section-skills {
+
+}
+
+.section-courses {
+  .course-title {
+    font-size: 18px;
+  }
+  .course-description {
+    font-style: italic;
+  }
+  .course-list {
+    line-height: 200%;
+  }
+}
+
+.section-languages {
+  .language-table {
+    width: 100%;
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      border-bottom: 1px solid #ddd;
+    }
+  }
+}
+
+.section-volunteering {
+  .volunteering-table {
+    width: 100%;
+    th, td {
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      border-bottom: 1px solid #ddd;
+    }
+  }
+}
+
+.section-others {
+
+}
+
+.section-downloads {
+
+}

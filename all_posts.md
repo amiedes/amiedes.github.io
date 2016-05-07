@@ -4,8 +4,6 @@ title: Posts
 permalink: /posts/
 ---
 
-Esta sección contiene una lista con todos los posts escritos hasta el momento:
-
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
