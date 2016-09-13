@@ -1,17 +1,17 @@
 ---
 layout: page
 title: Docs
-permalink: /docs/
+permalink: /docs
 ---
 
-En esta sección puedes encontrar parte de mis apuntes, cheatsheets, resúmenes y documentación en general.
+Here you can find some of my notes, cheatsheets and documentation in general.
 
-## Apuntes
+## Notes
 
 ## Cheatsheets
 
 <ul>
-  <li>Hoja resumen administración de redes IPv4 - <a href="/assets/docs/cheatsheet-redes.pdf">cheatsheet-redes.pdf</a></li>
+  <li>IPv4 computer networks administration (in spanish) - <a href="/assets/docs/cheatsheet-redes.pdf">cheatsheet-redes.pdf</a></li>
 </ul>
 
-## Otros
+## Others

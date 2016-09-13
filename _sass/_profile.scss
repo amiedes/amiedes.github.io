@@ -9,7 +9,6 @@
     border-bottom: 1px solid gray;
     width: 100%;
     display: block;
-
   }
 
 }
@@ -39,6 +38,33 @@
   }
   .course-list {
     line-height: 200%;
+  }
+}
+
+.section-projects {
+  ul.project-list {
+    list-style-type: none;
+    margin: 5px 5px 5px 5px;
+  }
+  li.project-list-item {
+    margin: 25px 0 25px 0;
+  }
+  h3.project-title {
+    display: inline-block;
+    margin: 15px 0 15px 0;
+    //color: #6495ED;
+    color: #4747d1;
+    font-size: 150%;
+  }
+  .project-description {
+    margin: 0 0 0 0;
+    li {
+      margin: 5px 5px 5px 25px;
+    }
+    li.project-description-text {
+      list-style-type: none;
+      margin: 0 0 0 0;
+    }
   }
 }
 
