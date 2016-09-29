@@ -24,3 +24,6 @@ linkedin_username: amiedes
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+permalink: date

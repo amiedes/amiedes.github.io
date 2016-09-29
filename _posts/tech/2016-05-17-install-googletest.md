@@ -3,6 +3,7 @@ layout: post
 title: Install googletest on Mac OS X
 published: true
 tags: software, c++, testing
+comments: true
 ---
 
 #### Steps

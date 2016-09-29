@@ -3,6 +3,7 @@ layout: post
 title: Example personal post
 published: true
 tags: personal, other
+comments: false
 ---
 
 This is an example personal post (inside a folder)
