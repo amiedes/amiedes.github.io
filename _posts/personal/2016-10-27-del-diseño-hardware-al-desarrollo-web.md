@@ -114,7 +114,7 @@ lo que se explicaba en las fichas docentes no entendía qué quería decir y tam
 era capaz de valorar que era lo que más me interesaba en ese momento.
 
 A pesar de haber *pivotado* de una carrera centrada en el hardware hacia el
-desarrollo web, no me arrepiento de la elección que hice en su díapor las
+desarrollo web, no me arrepiento de la elección que hice en su día por las
 siguientes razones:
 
 * Como he dicho, **la diferencia de temario entre las tres carreras no es crítica**
