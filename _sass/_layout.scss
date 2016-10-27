@@ -232,7 +232,7 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 22px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -272,4 +272,25 @@
     font-size: 18px;
   }
 
+}
+
+/**
+ * Images
+ */
+
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+.image-sm {
+  width: 300px;
+}
+
+.image-md {
+  width: 450px;
+}
+
+.image-lg {
+  width: 600px;
 }
