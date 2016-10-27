@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example personal post
+title: Post template 1
 published: true
 tags: personal, other
 comments: false

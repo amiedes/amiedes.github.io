@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Un borrador de ejemplo
+title: Example draft post
 permalink: draft.html
-published: false
+published: true
 ---
 
 Drafts are posts without a date. They're posts you're still working on and don't
