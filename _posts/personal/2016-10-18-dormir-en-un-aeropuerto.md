@@ -11,6 +11,8 @@ es pasar por un aeropuerto y ver a todos esos mochileros tirados en el suelo o
 en los asientos de las zonas de espera, durmiendo o simplemente haciendo tiempo
 hasta la hora de salida de su vuelo.
 
+![Terminal Aeropuerto](/assets/images/terminal-aeropuerto.png){: .center-image .image-md}
+
 Hoy, por fin, he tenido la oportunidad de experimentarlo por mí mismo. Siento
 chafaros la sorpresa, pero tengo que deciros que lo que a priori me parecía muy
 poético al final ha resultado ser una #$!* mierda.
