@@ -6,7 +6,7 @@ tags: personal
 comments: true
 ---
 
-En este post expongo los motivos que me han echo interesarme por el desarrollo web
+En este post expongo los motivos que me han hecho interesarme por el desarrollo web
 a pesar de haber cursado una carrera centrada en el estudio del hardware. Para
 ello empiezo con un breve resumen sobre los tres grados universitarios relacionados
 con la informática que es posible estudiar actualmente en España.
@@ -120,7 +120,7 @@ siguientes razones:
 * Como he dicho, **la diferencia de temario entre las tres carreras no es crítica**
 y no te condena a tener que dedicarte a ningún área en concreto.
 * Haber estudiado una carrera centrada en el hardware me ha permitido adquirir
-conociemientos a los que no habría tenido acceso si hubiese empezado a estudiar
+conocimientos a los que no habría tenido acceso si hubiese empezado a estudiar
 directamente sobre desarrollo web.
 * Puedes aprovechar las asignaturas optativas y el trabajo de fin de grado para
 **especializarte en las áreas que más te interesen**.
