@@ -7,11 +7,8 @@
 
 # Site settings
 title: amiedes.tech
-email: albertomg994@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog/página personal de Alberto Miedes. Aquí puedes encontrar posts de carácter
-  general, técnico, apuntes y hojas resumen así como información de contacto y
-  mi perfil profesional.
+  Blog/página personal de Alberto Miedes.
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Cambiar esto en función de si estoy trabajando en localhost o en el sitio publicado
