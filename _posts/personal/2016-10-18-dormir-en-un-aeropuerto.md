@@ -6,7 +6,7 @@ tags: viajes
 comments: true
 ---
 
-En los últimos meses he dado cuenta de que una de las cosas que más envidia me da
+En los últimos meses me he dado cuenta de que una de las cosas que más envidia me da
 es pasar por un aeropuerto y ver a todos esos mochileros tirados en el suelo o
 en los asientos de las zonas de espera, durmiendo o simplemente haciendo tiempo
 hasta la hora de salida de su vuelo.
