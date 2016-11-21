@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to deal with a Hackathon
+title: How to face a Hackathon
 published: true
 tags: personal
 comments: true
