@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: amiedes.tech
-description: > # this means to ignore newlines until "baseurl:"
-  Blog/página personal de Alberto Miedes.
+title: amiedes.com
+description: "Alberto Miedes' web site and blog. Developer currently living in Madrid."
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Cambiar esto en función de si estoy trabajando en localhost o en el sitio publicado
-url: "http://amiedes.tech" # the base hostname & protocol for your site
+url: "http://amiedes.com" # the base hostname & protocol for your site
 #url: "http://localhost"
 
 twitter_username: albertomg994
