@@ -86,21 +86,6 @@ de trabajar de forma remota y lograr una mayor independencia.
 * A veces tenía miedo de que en un campo tan específico y *superpoblado*
 como el desarrollo web pudiese tener problemas de trabajo en el futuro.
 
-  Me da la impresión de que se ha extendido la falsa creencia de que el desarrollo
-web consiste en saber un poquito de HTML y CSS y que eso lo puede hacer cualquiera.
-No obstante en cuanto empiezas a profundizar te das cuenta que el abanico de
-conocimientos a dominar cuando quieres hacer cosas más complejas es muy amplio,
-y que no están al alcance aquel que no esté dispuesto a echarle las horas necesarias.
-
-  > The truth of the matter is, if you need to "save" your job, I can't help you.
-This book isn't about struggling to mantain the level of mediocrity required not
-to get fired. It's about being *awesome*. It's about *winning*. You don't win a
-race by trying not to lose. And you don't win at life by trying not to suck.
-Fortunately, the content of the book has never been about trying not to suck. I
-can't think that way, and neither should you.
->
-> *The Passionate Programmer*, Chad Fowler
-
 ## Recomendaciones para futuros estudiantes
 
 Si estás pensando en estudiar alguna de estas tres carreras y no tienes ni idea
