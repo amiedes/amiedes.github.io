@@ -6,6 +6,16 @@
     background-color: black;
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .header-logo {
+        img {
+            margin-top: 12px;
+            margin-bottom: 12px;
+            margin-right: 10px;
+            width: 36px !important;
+            float: left;
+        }
+    }
 }
 
 .site-title {
