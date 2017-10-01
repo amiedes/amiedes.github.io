@@ -7,14 +7,14 @@
 
 # Site settings
 title: amiedes.com
-description: "Alberto Miedes' web site and blog. Developer currently living in Madrid."
+description: "Alberto Miedes' web site."
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Cambiar esto en función de si estoy trabajando en localhost o en el sitio publicado
 url: "http://amiedes.com" # the base hostname & protocol for your site
 #url: "http://localhost"
 
-twitter_username: albertomg994
+twitter_username: amiedes94
 github_username:  amiedes
 linkedin_username: amiedes
 
